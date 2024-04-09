@@ -229,19 +229,19 @@
     </div>
 </footer>
 
-<div class="container-fluid text-white" style="background-color: rgb(24, 22, 22);">
+<div class="container-fluid text-white" style="background-color: rgb(31, 108, 252);">
     <div class="container text-left">
         <div class="row justify-content-end">
             <div style="width: 80%; float: left;">
                 <div class="d-flex align-items-left justify-content-left" style="height: 75px;">
-                    <h6 class="m-4" style="color: #6a6d6e;">TUEYUM DEFO MERVEILLE LETICIA © Tel: 657.09.12.42 | Email: leticiadefo@gmail.com |</h6>
+                    <h6 class="m-4" style="color: white;">FOKOU JACQUES DUCLAIR © Tel: 670.61.24.89/693.23.47.19| Email: fokoujacques9@gmail.com |</h6>
                     <a class="m-4" href="#"> Developpeuse web</a>
                 </div>
             </div>
             <div class="d-inline-flex align-items-center" style="width: 20%; float: right;">
-                <a class="btn btn-sm" href="" style="color: #6a6d6e;"><i class="fab fa-facebook-f fw-normal"></i></a>
-                <a class="btn btn-sm" href="" style="color: #6a6d6e;"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                <a class="btn btn-sm " href="" style="color: #6a6d6e;"><i class="fab fa-twitter fw-normal"></i></a>
+                <a class="btn btn-sm" href="" style="color: white;"><i class="fab fa-facebook-f fw-normal"></i></a>
+                <a class="btn btn-sm" href="" style="color: white;"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                <a class="btn btn-sm " href="" style="color: white;"><i class="fab fa-twitter fw-normal"></i></a>
             </div>
         </div>
     </div>
